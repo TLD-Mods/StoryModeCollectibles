@@ -1,4 +1,7 @@
 # Story Mode Collectibles
+
+⚠️ This is a TLD Community Mod, which may or may not be maintained in the future. ⚠️ 
+
 A mod that adds some collectible items from Wintermute to Survival Mode.
 
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/storymodecollectibles.png" width="80%">
